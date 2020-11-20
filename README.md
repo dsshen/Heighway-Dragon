@@ -1,4 +1,1 @@
-# Header
-This repository contains source code for the production build of (app name).
-
-The live site can be viewed here.
+This repository contains source code for a web page that generates a Heighway dragon curve in SVG graphics. The live site can be viewed [here](https://github.com/dsshen/Heighway-Dragon/).
